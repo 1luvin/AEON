@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AEON</string>
+    
+    <string name="Login">Login</string>
+    <string name="Password">Password</string>
+    <string name="SignIn">Sign in</string>
+    <string name="SigningIn">Signing in…</string>
+    <string name="SignOut">Sign out</string>
+    <string name="SigningOut">Signing out…</string>
+    <string name="CreatedAt">Created at %s</string>
+    <string name="Payments">Payments</string>
+
+    <string name="error_EmptyField">This field cannot be empty.</string>
+    <string name="error_login_length">Login must contain between %s and %s characters.</string>
+    <string name="error_login_credentials">Sign in error, check the credentials and try again.</string>
+    <string name="error_login_characters">Valid characters: a–z, 0–9, _.</string>
+    <string name="error_payments_load">"Cannot load payments."</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="accent">#489EED</color>
+    <color name="bg">@color/white</color>
+    <color name="bgSecondary">#EEEEEE</color>
+    <color name="text">@color/black</color>
+    <color name="textSecondary">#9B99B6</color>
+    <color name="textNegative">#FF6565</color>
+</resources>
