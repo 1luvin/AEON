@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AEON</string>
+    <string name="app_name">MVVM</string>
     
     <string name="Login">Login</string>
     <string name="Password">Password</string>
@@ -7,7 +7,7 @@
     <string name="SigningIn">Signing in…</string>
     <string name="SignOut">Sign out</string>
     <string name="SigningOut">Signing out…</string>
-    <string name="CreatedAt">Created at %s</string>
+    <string name="CreatedAt">Created on %s</string>
     <string name="Payments">Payments</string>
 
     <string name="error_EmptyField">This field cannot be empty.</string>

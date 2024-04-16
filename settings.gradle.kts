@@ -14,6 +14,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AEON"
+rootProject.name = "MVVM"
 include(":app")
  

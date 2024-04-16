@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.aeon"
+    namespace = "com.example.mvvm"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.aeon"
+        applicationId = "com.example.mvvm"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
